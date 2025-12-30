@@ -112,8 +112,6 @@ This allows for automation and monitoring of the ETL job in Apache Airflow.
 ## Author
 Alex Gonzalez  
 Texas A&M Class of 2026 (Whoop!)  
-alexgonzalez764@outlook.com  
-linkedin.com/in/alexg764  
 
 ## License
 This project is licensed under the **MIT License** - free for educational and professional use.
